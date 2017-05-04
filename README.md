@@ -10,4 +10,4 @@
 
 - 演示
 
-![GNU](images/gnu.gif)
+![GNU](images/show.gif)
